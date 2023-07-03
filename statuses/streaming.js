@@ -1,7 +1,7 @@
 const
   rpcGenerator = require("discordrpcgenerator"),
 
-  // Add your client id in the index.js file
+  // 1125197982799765636
   IMAGE_NAME = "The name of the image",
   LARGE_TEXT = "Large text on the status",
   SMALL_TEXT = "Small text on the status",
